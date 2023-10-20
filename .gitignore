@@ -1,0 +1,53 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+//Assets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop generated
+/*.pidb
+/*.userprefs
+/*.csproj
+/*.pidb.meta
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+
+# Gradle
+/gradle/
+/gradlew
+/gradlew.bat
+
+# Mac
+*.DS_Store
+
+# Backups
+*~.nib
+*.swp
+*~
+*.tmp
+*.bak
+*.cache
+*.log
+*.zip
+*.vscode/
+*.sln.cache
+.vs/
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+
+/Packages
+/ProjectSettings
+/UserSettings
+/.vsconfig
+/Assembly-CSharp.csproj
+/.sln
+/Assembly-CSharp-Editor.csproj
